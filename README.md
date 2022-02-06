@@ -12,6 +12,7 @@ sports as well. I enjoy playing basketball, drawing, listening to and making mus
 plan on going into the reak world for a while and have graduate school on my mind but not in immediate view. I look forward to engaging and learning new material 
 within this class and hope to learn how to apply it in a real world working environment. 
 
+git commit -m "adding markdown styling"
 <!---
 Jacksocd18/Jacksocd18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
