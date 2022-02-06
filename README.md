@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying Informatics with a cognate in Graphic Design.
 - 💞️ I’m looking to collaborate on future assignments with my team.
 - 📫 You can reach me at my email Jacksocd@iu.edu.
+
 ## Inroduction
 
 Hi my name is Chris Jackson, I am a senior Informatics student with a cognate in Graphic Design. I began my freshman year of college as an Intelligent Systems
@@ -12,7 +13,7 @@ sports as well. I enjoy playing basketball, drawing, listening to and making mus
 plan on going into the reak world for a while and have graduate school on my mind but not in immediate view. I look forward to engaging and learning new material 
 within this class and hope to learn how to apply it in a real world working environment. 
 
-git commit -m "adding markdown styling"
+
 <!---
 Jacksocd18/Jacksocd18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
